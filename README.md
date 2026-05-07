@@ -22,7 +22,7 @@ The website is deployed using GitHub Pages from the main branch of this reposito
 
 ## Live Website
 
-https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
+https://mangeshbonde.github.io/my-website/
 
 ## Author
 
